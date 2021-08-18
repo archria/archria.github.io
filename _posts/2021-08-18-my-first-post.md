@@ -19,6 +19,7 @@ VSC md파일 preview extension을 설치하니까 조금 낫긴한데 어렵긴 
 
 이미지는 어떻게 넣는거지
 
-![스테이지 구상](./img/abc.jpg)
+![image](https://user-images.githubusercontent.com/63777480/129839326-d5875a3b-a112-4450-8f44-a362d7322d65.png)
+
 
 무야호!  
